@@ -1,1 +1,7 @@
-# Statistikk-ista1003
+# Statistics
+
+## Contains:
+
+* R - programming
+* Python programming
+* Different topics - solving tasks
