@@ -1,1 +1,1 @@
-# Statistics course ista1003
+# Statistikk-ista1003
